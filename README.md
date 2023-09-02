@@ -25,3 +25,10 @@ virtual\Scripts\python app.py
 ```
 npx tailwindcss -i ./static/src/input.css -o ./static/dist/css/output.css --watch
 ```
+# Colour palette 
+| Colour  | Hex |
+| ------------- | ------------- |
+| light-olive  | <img valign='middle' style='square' src='https://readme-swatches.vercel.app/f8f8f8'/> #f8f8f8  |
+| med-light olive  | <img valign='middle' style='square' src='https://readme-swatches.vercel.app/dce1d7'/> #dce1d7 |
+| med-olive | <img valign='middle' style='square' src='https://readme-swatches.vercel.app/c7d1b6 '/> #c7d1b6 | 
+| deep-olive | <img valign='middle' style='square' src='https://readme-swatches.vercel.app/7a8967 '/> #7a8967 | 

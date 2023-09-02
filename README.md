@@ -1,7 +1,7 @@
 # About
 This is a resource to aid research and preservation for Bastaki, my dialect of Ajami, a dying language. 
 
-This is a slightly altered (and now outdated) copy of the source code for my <a href="http://bastaki.pythonanywhere.com/">site</a>. I can't publish the original source code as it includes mail passwords. I also removed the database and info page here as they are constantly being edited and I don't want to leave incorrect or outdated information lying around but both of those are available on bastaki.pythonanywhere.com 
+This is a slightly altered (and now outdated) copy of the source code for my <a href="http://bastaki.pythonanywhere.com/">site</a>. I can't publish the original source code as it includes mail passwords. I also removed the database and info page here as they are constantly being edited and I don't want to leave incorrect or outdated information lying around but both of those are available on <a href="http://bastaki.pythonanywhere.com/">bastaki.pythonanywhere.com</a>.
 
 This is built with a SQLite database, Flask-based backend, Jinja2 frontend, and styled with Tailwind. I also used some AJAX to help pass data around a little more cleanly.   
 

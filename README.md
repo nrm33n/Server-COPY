@@ -1,9 +1,15 @@
 # About
-This is a resource to aid research and preservation for Bastaki, my dialect of Ajami, a dying language. 
+This is a resource to aid research and preservation for Bastaki, my community's endangered dialect of the Ajami language. 
 
-This is a slightly altered (and now outdated) copy of the source code for my <a href="http://bastaki.pythonanywhere.com/">site</a>. I can't publish the original source code as it includes mail passwords. I also removed the database and info page here as they are constantly being edited and I don't want to leave incorrect or outdated information lying around but both of those are available on <a href="http://bastaki.pythonanywhere.com/">bastaki.pythonanywhere.com</a>.
+This is a slightly altered (and now outdated) copy of the source code for my <a href="http://bastaki.pythonanywhere.com/">site</a>. I'm not publishing the entire original source code because it includes some sensitive data. I also removed the database and info page here because this is an ongoing, continuously updated project. I don't want to leave incorrect or outdated information lying around but they're still publically available on <a href="http://bastaki.pythonanywhere.com/">bastaki.pythonanywhere.com</a>.
 
-This is built with a SQLite database, Flask-based backend, Jinja2 frontend, and styled with Tailwind. I also used some AJAX to help pass data around a little more cleanly.   
+# Technologies 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+I also used some AJAX to help pass data around a little more cleanly.   
 
 # Run steps 
 ```

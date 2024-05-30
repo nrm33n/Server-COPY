@@ -1,7 +1,7 @@
 # About
-This is a slightly altered (and now outdated) copy of the source code for my <a href="http://bastaki.pythonanywhere.com/">Bastaki site</a>. I built it as a resource to aid research and preservation for Bastaki, my community's endangered dialect of the Ajami language. 
+This is a slightly altered (and as of May 2023 outdated) copy of the source code for my <a href="http://bastaki.pythonanywhere.com/">Bastaki site</a>. I built it as a resource to aid research and preservation for Bastaki, my community's endangered dialect of the Ajami language. 
 
-Note: I'm not publishing the entire original source code because it includes some sensitive data. I also removed the database and info page here because this is an ongoing, continuously updated project. I don't want to leave incorrect or outdated information lying around but they're still publically available on <a href="http://bastaki.pythonanywhere.com/">bastaki.pythonanywhere.com</a>.
+Im not publishing the entire original source code b/c it includes some sensitive data. Also removed the database & info pages here because this is an ongoing, continuously updated project, don't want to leave incorrect or outdated information lying around but they're still publically available on <a href="http://bastaki.pythonanywhere.com/">bastaki.pythonanywhere.com</a>.
 
 # Technologies 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
